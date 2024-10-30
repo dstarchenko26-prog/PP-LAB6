@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e3d6fbf-1bc3-4284-b214-cf5a2c570e8d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="JUnit3 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2o6sYNyqBm38Fp2xmZ8kzFc28l5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.AddCargoActionTest.executor": "Run",
+    "JUnit.AddLocActionTest.executor": "Run",
+    "JUnit.AddPassActionTest.executor": "Run",
+    "JUnit.AddTrainActionTest.executor": "Run",
+    "JUnit.AddWagonsToTrainActionTest.executor": "Run",
+    "JUnit.All in LAB6.3.executor": "Coverage",
+    "JUnit.CargoTest.executor": "Coverage",
+    "JUnit.DeleteTrainActionTest.executor": "Run",
+    "JUnit.DeleteWagonActionTest.executor": "Run",
+    "JUnit.DeleteWagonsInTrainActionTest.executor": "Run",
+    "JUnit.IOclassTest.executor": "Coverage",
+    "JUnit.PrintTrainActionTest.executor": "Run",
+    "JUnit.RedactTrainsActionTest.executor": "Run",
+    "JUnit.SearchTrainByNameActionTest.executor": "Run",
+    "JUnit.SearchTrainsByCargoActionTest.executor": "Run",
+    "JUnit.SearchTrainsByConsumptionActionTest.executor": "Run",
+    "JUnit.SearchTrainsByPassActionTest.executor": "Run",
+    "JUnit.SearchTrainsBySpeedActionTest.executor": "Run",
+    "JUnit.SearchWagonByNameActionTest.executor": "Run",
+    "JUnit.SortWagonsInTrainActionTest.executor": "Run",
+    "JUnit.TrainsMenuTest.executor": "Coverage",
+    "JUnit.WriteWagonsActionTest.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/denis/IdeaProjects/LAB6.3/src/test/resources",
+    "onboarding.tips.debug.path": "C:/Users/denis/IdeaProjects/LAB6.3/src/main/java/ua/lpnu/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\denis\IdeaProjects\LAB6.3\src\test\resources" />
+      <recent name="C:\Users\denis\IdeaProjects\LAB6.3\src\main\resources" />
+      <recent name="C:\Users\denis\IdeaProjects\LAB6.3\src\main\java\ua\lpnu\train" />
+      <recent name="C:\Users\denis\IdeaProjects\LAB6.3\src\main\java\ua\lpnu\menu" />
+      <recent name="C:\Users\denis\IdeaProjects\LAB6.3\src\main\java\ua\lpnu\train\wagon" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ua.lpnu.menu" />
+      <recent name="ua.lpnu" />
+      <recent name="ua.lpnu.train" />
+      <recent name="ua.lpnu.train.wagon" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ua.lpnu.menu" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in LAB6.3">
+    <configuration name="All in LAB6.3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LAB6.3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CargoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LAB6.3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.lpnu.train.wagon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.lpnu.train.wagon" />
+      <option name="MAIN_CLASS_NAME" value="ua.lpnu.train.wagon.CargoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in LAB6.3" />
+        <item itemvalue="JUnit.CargoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e3d6fbf-1bc3-4284-b214-cf5a2c570e8d" name="Changes" comment="" />
+      <created>1730201410570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730201410570</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/ua/lpnu/train/TrainTest.java</url>
+          <line>87</line>
+          <properties class="ua.lpnu.train.TrainTest" method="testDel">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/ua/lpnu/train/TrainTest.java</url>
+          <line>97</line>
+          <properties class="ua.lpnu.train.TrainTest" method="testSort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ua/lpnu/train/Info.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LAB6_3$CargoTest.ic" NAME="CargoTest Coverage Results" MODIFIED="1730229910408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>ua.lpnu.train.wagon.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LAB6_3$All_in_LAB6_3.ic" NAME="All in LAB6.3 Coverage Results" MODIFIED="1730293501852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/LAB6_3$TrainsMenuTest.ic" NAME="TrainsMenuTest Coverage Results" MODIFIED="1730286065887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>ua.lpnu.train.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LAB6_3$Main.ic" NAME="Main Coverage Results" MODIFIED="1730278029963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>ua.lpnu.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LAB6_3$IOclassTest.ic" NAME="IOclassTest Coverage Results" MODIFIED="1730293493068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>ua.lpnu.menu.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LAB6_3$SearchWagonByNameActionTest.ic" NAME="SearchWagonByNameActionTest Coverage Results" MODIFIED="1730278631814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>ua.lpnu.menu.*</FILTER>
+    </SUITE>
+  </component>
+</project>
