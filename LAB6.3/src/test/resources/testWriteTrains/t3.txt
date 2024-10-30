@@ -1,0 +1,16 @@
+ua.lpnu.train.wagon.Loc
+L02
+50
+100
+500
+15
+ua.lpnu.train.wagon.Cargo
+C01
+40
+80
+25
+ua.lpnu.train.wagon.Cargo
+C02
+60
+80
+45
